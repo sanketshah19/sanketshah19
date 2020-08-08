@@ -3,7 +3,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 I'm a Skilled MERN Stack Developer with programmatic approach towards the solution of complex problems with an ability to conceptualize, design and develop scalable web application with a touch of innovation. Loves to build products, solve problems and bridge the gap using different technologies. Willing to explore new technologies, learn and try to be a better programmer each single day.
 
-## Find me around the web <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px"> :
+## Find me around the web  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px"> :
 
 <span>
   <a href="https://www.linkedin.com/in/sanketshah19/">
@@ -50,8 +50,8 @@ I'm a Skilled MERN Stack Developer with programmatic approach towards the soluti
 <img align="left" alt="SASS" title='SASS' src="https://img.icons8.com/color/48/000000/sass.png"/>
 <img align="left" alt="Visual Studio Code" title='Visual Studio Code' src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
 <img align="left" alt="Github" title='Github' src="https://img.icons8.com/fluent/48/000000/github.png"/>
-<br />
-<br />
+<br/>
+<br/>
 
 ## GitHub Stats <img width="30px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" /> :
 
