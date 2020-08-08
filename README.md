@@ -53,12 +53,19 @@ I'm a Skilled MERN Stack Developer with programmatic approach towards the soluti
 <br />
 <br />
 
-## Some Stats:
-![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=sanketshah19&show_icons=true)
+## GitHub Stats <img width="30px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" /> :
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanketshah19&hide=TeX&layout=compact)
+![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=sanketshah19&count_private=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanketshah19&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sanketshah19.sanketshah19)
+
+## :sparkling_heart: Support Me
+
+If you find my work good, consider giving it :star: or fork-ing to show some :heart:.
+
+
 <!--
 <!--
 **sanketshah19/sanketshah19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
