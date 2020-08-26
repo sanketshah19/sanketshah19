@@ -48,8 +48,10 @@ I'm a Skilled MERN Stack Developer with programmatic approach towards the soluti
 <img align="left" alt="NPM" title='NPM' src="https://img.icons8.com/color/48/000000/npm.png"/>
 <img align="left" alt="Bootstrap" title='Bootstrap' src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img align="left" alt="SASS" title='SASS' src="https://img.icons8.com/color/48/000000/sass.png"/>
+<img align="left" alt="Mocha" title='Mocha' src="https://cdn.worldvectorlogo.com/logos/mocha-1.svg" height="48" width="48"/>
 <img align="left" alt="Visual Studio Code" title='Visual Studio Code' src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
 <img align="left" alt="Github" title='Github' src="https://img.icons8.com/fluent/48/000000/github.png"/>
+
 <br/>
 <br/>
 
