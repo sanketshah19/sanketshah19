@@ -31,7 +31,7 @@ I'm a Skilled MERN Stack Developer with programmatic approach towards the soluti
 <div align="center">
   <span>
     <a href="https://www.codewars.com/users/Sanket%20Shah?refreshed=true">
-      <img alt="Codewars" title='Codewars' src="https://www.codewars.com/users/Sanket%20Shah/badges/large" width="30%"/>
+      <img alt="Codewars" title='Codewars' src="https://www.codewars.com/users/Sanket%20Shah/badges/micro" width="15%"/>
     </a>
   </span>
 </div>
