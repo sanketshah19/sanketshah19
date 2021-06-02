@@ -5,31 +5,36 @@ I'm a Skilled MERN Stack Developer with programmatic approach towards the soluti
 
 ## Find me around the web  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px"> :
 
-<span>
-  <a href="https://www.linkedin.com/in/sanketshah19/">
-    <img alt="LinkedIn" title='LinkedIn' src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-  </a>
-</span>
-<span>
-  <a href="mailto:sanketshah17.ss@gmail.com">
-    <img alt="Gmail" title='Gmail' src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
-  </a>
-</span>
-<span>
-  <a href="https://sanketshah19.github.io/">
-    <img alt="Portfolio Website" title='Portfolio Website' src="https://img.icons8.com/fluent/48/000000/domain.png"/>
-  </a>
-</span>
-<span>
-  <a href="https://www.instagram.com/_sanket_shah_/">
-    <img alt="Instagram" title='Instagram' src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
-  </a>
-</span>
-<span>
-  <a href="https://www.codewars.com/users/Sanket%20Shah?refreshed=true">
-    <img alt="Codewars" title='Codewars' src="https://img.icons8.com/cotton/44/000000/laptop-coding.png"/>
-  </a>
-</span>
+<div align="center">
+  <span>
+    <a href="https://www.linkedin.com/in/sanketshah19/">
+      <img alt="LinkedIn" title='LinkedIn' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+  </span>
+  <span>
+    <a href="mailto:sanketshah17.ss@gmail.com">
+      <img alt="Gmail" title='Gmail' src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </span>
+  <span>
+    <a href="https://sanketshah19.github.io/">
+      <img alt="Portfolio Website" title='Portfolio Website' src="https://img.shields.io/badge/Portfolio Website-107C10?style=for-the-badge&logo=google&logoColor=white"/>
+    </a>
+  </span>
+  <span>
+    <a href="https://www.instagram.com/_sanket_shah_/">
+      <img alt="Instagram" title='Instagram' src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    </a>
+  </span>
+</div>
+
+<div align="center">
+  <span>
+    <a href="https://www.codewars.com/users/Sanket%20Shah?refreshed=true">
+      <img alt="Codewars" title='Codewars' src="https://www.codewars.com/users/Sanket%20Shah/badges/large" width="30%"/>
+    </a>
+  </span>
+</div>
 
 ## Things I deal with on the computer:
 
