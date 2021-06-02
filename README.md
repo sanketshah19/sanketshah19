@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm [Sanket Shah](https://sanketshah19.github.io/) 👨‍💻
+# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm [Sanket Shah](https://sanketshah19.github.io/) <image src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="40px">
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
 I'm a Skilled MERN Stack Developer with programmatic approach towards the solution of complex problems with an ability to conceptualize, design and develop scalable web application with a touch of innovation. Loves to build products, solve problems and bridge the gap using different technologies. Willing to explore new technologies, learn and try to be a better programmer each single day.
