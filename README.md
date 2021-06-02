@@ -26,11 +26,6 @@ I'm a Skilled MERN Stack Developer with programmatic approach towards the soluti
   </a>
 </span>
 <span>
-  <a href="https://drive.google.com/file/d/19fQ-pmRsTkKDbFKtmbB-oz7GFSRmXJHn/view?usp=sharing">
-    <img alt="Resume" title='Resume' src="https://img.icons8.com/officel/40/000000/open-resume.png"/>
-  </a>
-</span>
-<span>
   <a href="https://www.codewars.com/users/Sanket%20Shah?refreshed=true">
     <img alt="Codewars" title='Codewars' src="https://img.icons8.com/cotton/44/000000/laptop-coding.png"/>
   </a>
@@ -47,7 +42,6 @@ I'm a Skilled MERN Stack Developer with programmatic approach towards the soluti
 <img align="left" alt="MongoDB" title='MongoDB' src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <img align="left" alt="NPM" title='NPM' src="https://img.icons8.com/color/48/000000/npm.png"/>
 <img align="left" alt="Bootstrap" title='Bootstrap' src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-<img align="left" alt="Mocha" title='Mocha' src="https://cdn.worldvectorlogo.com/logos/mocha-1.svg" height="48" width="48"/>
 <img align="left" alt="Visual Studio Code" title='Visual Studio Code' src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
 <img align="left" alt="Github" title='Github' src="https://img.icons8.com/fluent/48/000000/github.png"/>
 
@@ -56,29 +50,17 @@ I'm a Skilled MERN Stack Developer with programmatic approach towards the soluti
 
 ## GitHub Stats <img width="30px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" /> :
 
-![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=sanketshah19&count_private=true&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=sanketshah19&count_private=true&show_icons=true" alt="Sanket's github stats" width="48%" align="left" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketshah19" alt="Sanket's github stats" width="48%" >
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanketshah19&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketshah19&layout=compact" width="40%" alt="Top Langs" >
+</div>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sanketshah19.sanketshah19)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sanketshah19.sanketshah19" alt="Visitor Badge" >
+</div>
 
 ## :sparkling_heart: Support Me
 
 If you find my work good, consider giving it :star: or fork-ing to show some :heart:.
-
-
-<!--
-<!--
-**sanketshah19/sanketshah19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
