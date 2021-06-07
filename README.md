@@ -56,7 +56,7 @@ I'm a Skilled MERN Stack Developer with programmatic approach towards the soluti
 ## GitHub Stats <img width="30px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" /> :
 
 <img src="https://github-readme-stats.vercel.app/api?username=sanketshah19&count_private=true&show_icons=true" alt="Sanket's github stats" width="48%" align="left" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketshah19" alt="Sanket's github stats" width="48%" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketshah19&count_private=true" alt="Sanket's github stats" width="48%" >
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketshah19&layout=compact" width="40%" alt="Top Langs" >
