@@ -30,9 +30,7 @@ I'm a Skilled MERN Stack Developer with programmatic approach towards the soluti
 
 <div align="center">
   <span>
-    <a href="https://www.codewars.com/users/Sanket%20Shah?refreshed=true">
-      <img alt="Codewars" title='Codewars' src="https://www.codewars.com/users/Sanket%20Shah/badges/micro" width="15%"/>
-    </a>
+    <a href="https://stackoverflow.com/users/16420018/sanket-shah"><img src="https://stackoverflow.com/users/flair/16420018.png" width="208" height="58" alt="profile for Sanket Shah at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Sanket Shah at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
   </span>
 </div>
 
