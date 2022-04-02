@@ -22,6 +22,11 @@ I'm a Skilled MERN Stack Developer with programmatic approach towards the soluti
     </a>
   </span>
   <span>
+    <a href="https://twitter.com/_Sanket_Shah_">
+      <img alt="Twitter" title='Twitter' src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/>
+    </a>
+  </span>
+  <span>
     <a href="https://www.instagram.com/_sanket_shah_/">
       <img alt="Instagram" title='Instagram' src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
