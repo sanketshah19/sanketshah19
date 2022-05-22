@@ -1,9 +1,10 @@
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm [Sanket Shah](https://sanketshah19.github.io/) <image src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="40px">
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100"'>
+<img align='right' src="https://lh3.googleusercontent.com/Cv2IypO2m-4Nq3FfG8qJHi3O7McdY0lb_1R9DJrePL1mEw3OEogfoCy9-7cZND-cdJPs92gFkSQGe6PDqJErGNRpmydPMsx8qm20GA=s0" alt="Octocat" width="100" height="100">
+
 I'm a Skilled MERN Stack Developer with programmatic approach towards the solution of complex problems with an ability to conceptualize, design and develop scalable web application with a touch of innovation. Loves to build products, solve problems and bridge the gap using different technologies. Willing to explore new technologies, learn and try to be a better programmer each single day.
 
-## Find me around the web  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px"> :
+## Find me around the web <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px"> :
 
 <div align="center">
   <span>
@@ -56,9 +57,9 @@ I'm a Skilled MERN Stack Developer with programmatic approach towards the soluti
 <br/>
 <br/>
 
-## GitHub Stats <img width="30px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" /> :
+## GitHub Stats <img align="center" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg"  alt="GitHub Readme Stats" width="30px" /> :
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanketshah19&count_private=true&show_icons=true" alt="Sanket's github stats" width="48%" align="left" >
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sanketshah19&count_private=true&show_icons=true" alt="Sanket's github stats" width="48%"  >
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketshah19&count_private=true" alt="Sanket's github stats" width="48%" >
 
 <div align="center">
@@ -72,3 +73,5 @@ I'm a Skilled MERN Stack Developer with programmatic approach towards the soluti
 ## :sparkling_heart: Support Me
 
 If you find my work good, consider giving it :star: or fork-ing to show some :heart:.
+
+<!-- Octocat Creator: https://opensea.io/inshh988 -->
