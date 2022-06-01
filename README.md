@@ -1,10 +1,10 @@
-# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm [Sanket Shah](https://sanketshah19.github.io/) <image src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="40px">
+# Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">, I'm [Sanket Shah](https://sanketshah19.github.io/) <image src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="40">
 
 <img align='right' src="https://lh3.googleusercontent.com/Cv2IypO2m-4Nq3FfG8qJHi3O7McdY0lb_1R9DJrePL1mEw3OEogfoCy9-7cZND-cdJPs92gFkSQGe6PDqJErGNRpmydPMsx8qm20GA=s0" alt="Octocat" width="100" height="100">
 
 I'm a Skilled MERN Stack Developer with programmatic approach towards the solution of complex problems with an ability to conceptualize, design and develop scalable web application with a touch of innovation. Loves to build products, solve problems and bridge the gap using different technologies. Willing to explore new technologies, learn and try to be a better programmer each single day.
 
-## Find me around the web <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px"> :
+## Find me around the web <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30"> :
 
 <div align="center">
   <span>
